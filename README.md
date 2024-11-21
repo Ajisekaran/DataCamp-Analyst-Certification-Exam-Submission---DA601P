@@ -2,7 +2,8 @@
 
 # DataCamp Data Analyst Certification
 
-Overview
+## Overview:
+
 This repository showcases my journey and accomplishments in earning the prestigious Data Analyst Certification from DataCamp. The certification process involved demonstrating proficiency in analytical fundamentals, exploratory data analysis, data management, and visualization/reporting through timed exams and a rigorous practical evaluation.
 
 # Certification Details
@@ -14,10 +15,10 @@ DA101: Fundamentals of analytics and exploratory analysis.
 DA201: Advanced topics in data management and visualization/reporting.
 Practical Exam (DA601P)
 
-# Technical Report:
+# 1.Technical Report:
 Created a comprehensive report for a data science manager, highlighting the problem-solving process, rationale for actions, and actionable insights.
 
-# Non-Technical Presentation:
+# 2.Non-Technical Presentation:
 Delivered insights in a format understandable to non-technical stakeholders, focusing on the "why" and "what" of the analysis.
 Skills Demonstrated
 Analytical fundamentals and problem-solving.
